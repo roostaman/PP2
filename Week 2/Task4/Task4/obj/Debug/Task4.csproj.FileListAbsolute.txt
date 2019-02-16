@@ -1,0 +1,7 @@
+C:\Users\Rustam\source\repos\Week 2\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\Rustam\source\repos\Week 2\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\Rustam\source\repos\Week 2\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\Rustam\source\repos\Week 2\Task4\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Rustam\source\repos\Week 2\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\source\repos\Week 2\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\Rustam\source\repos\Week 2\Task4\Task4\obj\Debug\Task4.pdb
